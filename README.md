@@ -1,70 +1,87 @@
-🚀 COMP3133 — GraphQL Employee Management API
-👨‍🎓 Student Information
+<div align="center">
 
-Student: Heemal Syangbo
-Student ID: 101532464
-Course: COMP3133 — Full Stack Development
+# 🚀 GraphQL Employee Management API
 
-📌 Project Overview
+### COMP3133 — Full Stack Development
 
-This project implements a GraphQL Employee Management API built using:
+👨‍🎓 **Student:** Heemal Syangbo  
+🆔 **Student ID:** 101532464  
 
-👉 Node.js + Apollo Server + MongoDB
+---
 
-The system provides:
+![NodeJS](https://img.shields.io/badge/Node.js-Backend-green)
+![GraphQL](https://img.shields.io/badge/GraphQL-Apollo-purple)
+![MongoDB](https://img.shields.io/badge/MongoDB-Database-brightgreen)
+![Status](https://img.shields.io/badge/Status-Completed-success)
 
-✨ User authentication
-✨ Full CRUD operations for employee records
-✨ GraphQL Queries & Mutations
+</div>
 
-⚡ Core Features
-🔎 Queries
+---
 
-✅ User Login Authentication
+## 📌 Project Overview
 
-✅ Get All Employees
+This project implements a **GraphQL Employee Management API** using:
 
-✅ Search Employee by ID
+✨ Node.js  
+✨ Apollo GraphQL Server  
+✨ MongoDB + Mongoose  
 
-✅ Search by Designation or Department
+The system allows authentication and full CRUD operations for employee records using GraphQL queries and mutations.
 
-✏️ Mutations
+---
 
-✅ User Signup
+## ⚡ Features
 
-✅ Add New Employee
+### 🔎 Queries
 
-✅ Update Employee Details
+- ✅ User Login Authentication  
+- ✅ Get All Employees  
+- ✅ Search Employee by ID  
+- ✅ Search Employee by Designation or Department  
 
-✅ Delete Employee
+---
 
-🧪 Testing
+### ✏️ Mutations
 
-All operations were verified using:
+- ✅ User Signup  
+- ✅ Add New Employee  
+- ✅ Update Employee Details  
+- ✅ Delete Employee  
+
+---
+
+## 🧪 Testing
+
+All functionalities were tested using:
 
 👉 Apollo GraphQL Sandbox
 
-✔ Verified Functionalities
+### ✔ Verified Operations
 
-✔ Login Authentication
+- ✔ Login Authentication  
+- ✔ Employee Creation  
+- ✔ Employee Search Queries  
+- ✔ Employee Update  
+- ✔ Employee Deletion  
 
-✔ Employee Creation
+Screenshots of testing are included in the assignment documentation.
 
-✔ Employee Search Queries
+---
 
-✔ Employee Update
+## 🛠️ Tech Stack
 
-✔ Employee Deletion
+| Technology | Usage |
+|------------|-------|
+| Node.js | Backend runtime |
+| GraphQL (Apollo Server) | API Layer |
+| MongoDB | Database |
+| Mongoose | ODM |
+| bcryptjs | Password Encryption |
 
-📸 Screenshots included in assignment documentation.
+---
 
-🛠️ Technologies Used
-Technology	Purpose
-Node.js	Backend runtime
-GraphQL (Apollo Server)	API Layer
-MongoDB	Database
-Mongoose	ODM
-bcryptjs	Password Hashing
 <div align="center">
-⭐ COMP3133 Assignment 1 — GraphQL API ⭐
+
+⭐ **COMP3133 Assignment 1 — GraphQL API Implementation** ⭐
+
 </div>
