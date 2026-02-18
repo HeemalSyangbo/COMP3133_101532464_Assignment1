@@ -1,43 +1,52 @@
-🚀 COMP3133 Assignment 1 – GraphQL Employee API
-👨‍💻 Student
+🚀 COMP3133 Assignment 1 — GraphQL Employee Management API
+👨‍🎓 Student Information
 
 Name: Heemal Syangbo
-
 Student ID: 101532464
+Course: COMP3133 – Full Stack Development
 
-📌 Project Description
+📌 Project Overview
 
-This project implements a GraphQL API for managing employees and users using Node.js, Apollo Server, and MongoDB.
+This project implements a GraphQL API for employee management using Node.js, Apollo Server, and MongoDB.
 
-The API supports authentication and full CRUD operations for employee management.
+The system allows users to authenticate and perform CRUD operations on employee records through GraphQL queries and mutations.
 
-⚙️ Features
-Queries
+⚡ Features
+🔎 Queries
 
-Login user
+User Login Authentication
 
-Get all employees
+Get All Employees
 
-Search employee by ID
+Search Employee by ID
 
-Search employee by designation or department
+Search Employee by Designation or Department
 
-Mutations
+✏️ Mutations
 
-Signup user
+User Signup
 
-Add employee
+Add New Employee
 
-Update employee
+Update Employee Details
 
-Delete employee
+Delete Employee
 
 🧪 Testing
 
-All operations were tested using Apollo GraphQL Sandbox.
-Screenshots are included in the submission document.
+All GraphQL operations were tested using Apollo GraphQL Sandbox.
 
-🛠️ Technologies
+The following functionalities were verified:
+
+✅ Login authentication
+✅ Employee creation
+✅ Employee search queries
+✅ Employee update
+✅ Employee deletion
+
+Screenshots of testing are included in the assignment documentation.
+
+🛠️ Technologies Used
 
 Node.js
 
@@ -46,3 +55,5 @@ GraphQL (Apollo Server)
 MongoDB
 
 Mongoose
+
+bcryptjs
