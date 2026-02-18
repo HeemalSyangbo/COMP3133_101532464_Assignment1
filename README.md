@@ -1,22 +1,23 @@
 🚀 COMP3133 — GraphQL Employee Management API
-<div align="center">
+👨‍🎓 Student Information
 
+Student: Heemal Syangbo
+Student ID: 101532464
+Course: COMP3133 — Full Stack Development
 
-
-
-
-
-👨‍🎓 Student: Heemal Syangbo
-🆔 Student ID: 101532464
-📚 Course: COMP3133 — Full Stack Development
-</div>
 📌 Project Overview
 
-This project implements a GraphQL Employee Management API built using Node.js, Apollo Server, and MongoDB.
+This project implements a GraphQL Employee Management API built using:
 
-The system provides authentication and full CRUD operations for managing employee records using GraphQL queries and mutations.
+👉 Node.js + Apollo Server + MongoDB
 
-⚡ Features
+The system provides:
+
+✨ User authentication
+✨ Full CRUD operations for employee records
+✨ GraphQL Queries & Mutations
+
+⚡ Core Features
 🔎 Queries
 
 ✅ User Login Authentication
@@ -25,7 +26,7 @@ The system provides authentication and full CRUD operations for managing employe
 
 ✅ Search Employee by ID
 
-✅ Search Employee by Designation or Department
+✅ Search by Designation or Department
 
 ✏️ Mutations
 
@@ -39,30 +40,31 @@ The system provides authentication and full CRUD operations for managing employe
 
 🧪 Testing
 
-All GraphQL operations were tested using Apollo GraphQL Sandbox.
+All operations were verified using:
 
-✔ Login authentication
-✔ Employee creation
-✔ Employee search queries
-✔ Employee update
-✔ Employee deletion
+👉 Apollo GraphQL Sandbox
 
-Screenshots are included in assignment documentation.
+✔ Verified Functionalities
 
-🛠️ Technologies
+✔ Login Authentication
 
-Node.js
+✔ Employee Creation
 
-GraphQL (Apollo Server)
+✔ Employee Search Queries
 
-MongoDB
+✔ Employee Update
 
-Mongoose
+✔ Employee Deletion
 
-bcryptjs
+📸 Screenshots included in assignment documentation.
 
+🛠️ Technologies Used
+Technology	Purpose
+Node.js	Backend runtime
+GraphQL (Apollo Server)	API Layer
+MongoDB	Database
+Mongoose	ODM
+bcryptjs	Password Hashing
 <div align="center">
-
-⭐ COMP3133 Assignment 1 — GraphQL API Implementation ⭐
-
+⭐ COMP3133 Assignment 1 — GraphQL API ⭐
 </div>
