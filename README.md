@@ -1,52 +1,55 @@
-🚀 COMP3133 Assignment 1 — GraphQL Employee Management API
-👨‍🎓 Student Information
+🚀 COMP3133 — GraphQL Employee Management API
+<div align="center">
 
-Name: Heemal Syangbo
-Student ID: 101532464
-Course: COMP3133 – Full Stack Development
 
+
+
+
+
+👨‍🎓 Student: Heemal Syangbo
+🆔 Student ID: 101532464
+📚 Course: COMP3133 — Full Stack Development
+</div>
 📌 Project Overview
 
-This project implements a GraphQL API for employee management using Node.js, Apollo Server, and MongoDB.
+This project implements a GraphQL Employee Management API built using Node.js, Apollo Server, and MongoDB.
 
-The system allows users to authenticate and perform CRUD operations on employee records through GraphQL queries and mutations.
+The system provides authentication and full CRUD operations for managing employee records using GraphQL queries and mutations.
 
 ⚡ Features
 🔎 Queries
 
-User Login Authentication
+✅ User Login Authentication
 
-Get All Employees
+✅ Get All Employees
 
-Search Employee by ID
+✅ Search Employee by ID
 
-Search Employee by Designation or Department
+✅ Search Employee by Designation or Department
 
 ✏️ Mutations
 
-User Signup
+✅ User Signup
 
-Add New Employee
+✅ Add New Employee
 
-Update Employee Details
+✅ Update Employee Details
 
-Delete Employee
+✅ Delete Employee
 
 🧪 Testing
 
 All GraphQL operations were tested using Apollo GraphQL Sandbox.
 
-The following functionalities were verified:
+✔ Login authentication
+✔ Employee creation
+✔ Employee search queries
+✔ Employee update
+✔ Employee deletion
 
-✅ Login authentication
-✅ Employee creation
-✅ Employee search queries
-✅ Employee update
-✅ Employee deletion
+Screenshots are included in assignment documentation.
 
-Screenshots of testing are included in the assignment documentation.
-
-🛠️ Technologies Used
+🛠️ Technologies
 
 Node.js
 
@@ -57,3 +60,9 @@ MongoDB
 Mongoose
 
 bcryptjs
+
+<div align="center">
+
+⭐ COMP3133 Assignment 1 — GraphQL API Implementation ⭐
+
+</div>
